@@ -3,7 +3,7 @@
 <h2>👨‍💻 cybersecurity Projects:</h2>
 
 
-  - [professional declaration](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [professional declaration](https://github.com/paulosilva-ciberseguranca/declaracao.profissional.git)
 
 
 <h2> 🤳 Connect with me:</h2>
